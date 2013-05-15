@@ -5,6 +5,8 @@
  *		@version 1.0
  */
 //comentario primero
+
+//tercer comentario
 public class Perro {
 		/**
 		*	Campos de la clase Perro: peso,nombre,raza, patas, collar, contador
